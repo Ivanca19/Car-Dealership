@@ -7,6 +7,8 @@
  *
  * @author Ivanca19
  */
+
+// This class deals with the accessories a car can have that would make it more valuable
 public class CarAccessory {
     
     private double _iStereo = 103.49;
