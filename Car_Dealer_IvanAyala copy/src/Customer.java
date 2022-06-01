@@ -11,6 +11,8 @@ import javax.swing.JOptionPane;
  *
  * @author Ivanca19
  */
+
+// This class Creates a Customer object and allows it to have data such as a name and ID and address
 public class Customer {
     
     private String _customerID;
