@@ -7,6 +7,8 @@
  *
  * @author Ivanca19
  */
+
+// This class is entirely data for a Car object
 public class Cars {
     
     private String Honda;
