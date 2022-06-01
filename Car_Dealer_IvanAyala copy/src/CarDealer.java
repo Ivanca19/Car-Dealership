@@ -21,7 +21,8 @@ import java.util.logging.Logger;
 import javafx.print.Printer;
 import javax.swing.JTextArea;
 
-
+// This class creates the view and interactive menu that the user will see and interact with. It also directly relies on all the other classes such as 
+// Cars, CarAvailability, User, and CarAccessories to display data.
 public class CarDealer extends javax.swing.JFrame {
 
     /**
