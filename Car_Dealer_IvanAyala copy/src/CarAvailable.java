@@ -10,6 +10,9 @@ import java.util.ArrayList;
  *
  * @author Ivanca19
  */
+
+// This class contains three array lists that allow the program to keep track of the cars that are currently in the dealership,
+// as well as the cars that have been sold
 public class CarAvailable {
     private ArrayList<Cars> carList;
     private ArrayList<Cars> rCarList;
